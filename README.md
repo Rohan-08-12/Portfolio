@@ -1,0 +1,111 @@
+# ARHAM.exe // PORTFOLIO_V2
+
+```
+    ___    ____  __  ______    __  ___      ________  ______
+   /   |  / __ \/ / / / __ \  /  |/  /     / ____/ / / /   |
+  / /| | / /_/ / /_/ / /_/ / / /|_/ /_____/ /_  / / / / /| |
+ / ___ |/ _, _/ __  / __  | / /  / /_____/ __/ / /_/ / ___ |
+/_/  |_/_/ |_/_/ /_/_/ |_| /_/  /_/     /_/    \____/_/  |_|
+                                                            
+>> SYSTEM_STATUS: ONLINE
+>> THEME: NEO_BRUTALISM
+>> VERSION: 2.0.0
+```
+
+> **WARNING**: This is NOT a standard portfolio. It is a raw, unfiltered expression of code. No cookies. No trackers. Just pure HTML, CSS, and JS anarchy.
+
+---
+
+## /// MANIFESTO
+
+**Design is dying.** The web has become a sea of identical, sanitized templates. We are here to break the grid.
+This portfolio embraces **Neo-Brutalism**:
+- High Contrast
+- Raw Typography
+- Asymmetrical Layouts
+- "Ugly" on Purpose
+
+It's not about being pretty. It's about being **BOLD**.
+
+---
+
+## /// TECH_STACK
+
+| COMPONENT | TECHNOLOGY | STATUS |
+| :--- | :--- | :--- |
+| **CORE** | `HTML5` | [OPTIMIZED] |
+| **STYLING** | `TailwindCSS` | [LOADED] |
+| **SCRIPTING** | `Vanilla JS` | [ACTIVE] |
+| **ICONS** | `Remix Icons` | [LINKED] |
+| **FONTS** | `Space Grotesk` + `JetBrains Mono` | [IMPORTED] |
+
+---
+
+## /// FEATURES_LOG
+
+### 01. CUSTOM_CURSOR
+> A custom-built cursor that reacts to interactive elements.
+> - **Normal State**: Small crosshair/dot.
+> - **Hover State**: Expands to a Neo-Yellow block with black borders.
+
+### 02. GLITCH_EFFECTS
+> CSS-only glitch animations on hover states.
+> - `mix-blend-mode: difference` for high contrast.
+> - Random translation keyframes for that "broken" feel.
+
+### 03. MARQUEE_SCROLL
+> Infinite scrolling text banners.
+> - Pure CSS animation.
+> - **Direction**: Left-to-Right & Right-to-Left.
+
+### 04. REVEAL_ANIMATION
+> Elements reveal themselves as you scroll.
+> - `IntersectionObserver` API.
+> - Smooth translate-Y transitions.
+
+---
+
+## /// FILE_STRUCTURE
+
+```bash
+.
+├── Assets/
+│   ├── images/          # [DIR] Project thumbnails & Avatar
+│   └── Resume/          # [DIR] CV PDF file
+├── index.html           # [FILE] Main Entry Point
+└── README.md            # [FILE] You are here
+```
+
+---
+
+## /// DEPLOYMENT
+
+### OPTION A: LOCAL_HOST
+1.  Clone the repository.
+    ```bash
+    git clone https://github.com/Arham43-ops/NeoBrutalist.git
+    ```
+2.  Open `index.html` in your browser.
+    ```bash
+    # No build step required. It's raw HTML.
+    start index.html
+    ```
+
+### OPTION B: NETLIFY / VERCEL
+1.  Drag and drop the folder.
+2.  **Build Command**: `(empty)`
+3.  **Publish Directory**: `/`
+
+---
+
+## /// CONTACT_COORDINATES
+
+**TRANSMISSION OPEN:**
+- **MAIL**: `hello@arham.dev`
+- **GITHUB**: `Arham43-ops`
+- **LOCATION**: `Remote / Earth`
+
+> "I build digital products that refuse to be boring."
+
+---
+**© 2024 ARHAM.exe // SYSTEM_END**
